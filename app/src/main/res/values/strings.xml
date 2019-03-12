@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenMDM</string>
+    <string name="tvNombreut">Universidad Tecnologica de Tula-Tepeji</string>
+    <string name="tvCarrera">Tecnologias de la informacion y comunicacion </string>
+    <string name="tvBienvenidos">Bienvenidos</string>
+    <string name="tvjuego">Juego de matematicas </string>
+    <string name="tviniciar">Iniciar Juego </string>
+    <string name="tvpropietario">Creado por : Moises Dominguez Mendoza </string>
+    <string name="tvGRUPO">5 TIC-G5</string>
+    <string name="tvusuarionum">ingresar Resultado </string>
+    <string name="generar">Generar numero</string>
+    <string name="ValidarR">validar Resultado</string>
+    <string name="estadisticas">Ver estadisticas</string>
+    <string name="spineer">Elige una operacion </string>
+    <string name="titulo">Estadisticas del juego </string>
+    <string name="regresar">Regresar </string>
+</resources>
